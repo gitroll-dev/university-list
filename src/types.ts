@@ -9,4 +9,5 @@ export interface RawUniversity {
 
 export interface University extends RawUniversity {
   id: number
+  abbr: string
 }

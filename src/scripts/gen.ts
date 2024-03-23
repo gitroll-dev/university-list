@@ -1,6 +1,7 @@
 import { readFile, writeFile } from 'fs/promises'
 import path from 'path'
 import type { RawUniversity, University } from '../types'
+import guessAbbr from './helpers/guessAbbr'
 
 
 /**
@@ -13,7 +14,8 @@ async function main() {
     RawUniversity[]
   const list = rawUniversities.map((university, i) => ({
     ...university,
-    id: i + 1
+    id: i + 1,
+    abbr: guessAbbr(university.web_pages[0])
   } satisfies University))
   const outPath = path.resolve(__dirname, '../../src/list.json')
   console.log('Generating new list at', outPath)
