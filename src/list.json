@@ -111319,17 +111319,17 @@
   },
   {
     "web_pages": [
-      "http://www.nctu.edu.tw/"
+      "https://www.nycu.edu.tw/"
     ],
-    "name": "National Chiao Tung University",
+    "name": "National Yang Ming Chiao Tung University",
     "alpha_two_code": "TW",
     "state-province": null,
     "domains": [
-      "nctu.edu.tw"
+      "nycu.edu.tw"
     ],
     "country": "Taiwan, Province of China",
     "id": 7933,
-    "abbr": "nctu"
+    "abbr": "NYCU"
   },
   {
     "web_pages": [
@@ -112031,20 +112031,6 @@
     "country": "Taiwan, Province of China",
     "id": 7983,
     "abbr": "ttu"
-  },
-  {
-    "web_pages": [
-      "http://www.ym.edu.tw/"
-    ],
-    "name": "National Yang Ming Medical College",
-    "alpha_two_code": "TW",
-    "state-province": null,
-    "domains": [
-      "ym.edu.tw"
-    ],
-    "country": "Taiwan, Province of China",
-    "id": 7984,
-    "abbr": "ym"
   },
   {
     "web_pages": [
@@ -140722,5 +140708,62 @@
     "country": "United States",
     "id": 10025,
     "abbr": "dom"
+  },
+  {
+    "web_pages": [
+      "https://insa-toulouse.fr"
+    ],
+    "name": "National Institute of Applied Sciences of Toulouse",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "insa-toulouse.fr"
+    ],
+    "country": "France",
+    "id": 10026,
+    "abbr": "INSA"
+  },
+  {
+    "web_pages": [
+      "https://haw-hamburg.de"
+    ],
+    "name": "Hamburg University of Applied Sciences (HAW Hamburg)",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "haw-hamburg.de"
+    ],
+    "country": "Germany",
+    "id": 10027,
+    "abbr": "HAW Hamburg"
+  },
+  {
+    "web_pages": [
+      "https://iau.edu.sa"
+    ],
+    "name": "Imam Abdulrahman Bin Faisal University",
+    "alpha_two_code": "SA",
+    "state-province": null,
+    "domains": [
+      "iau.edu.sa"
+    ],
+    "country": "Saudi Arabia",
+    "id": 10028,
+    "abbr": "IAU"
+  },
+  {
+    "web_pages": [
+      "https://www.gandakiuniversity.edu.np/"
+    ],
+    "name": "Gandaki University",
+    "alpha_two_code": "NP",
+    "state-province": null,
+    "domains": [
+      "gandakiuniversity.edu.np",
+      "gpu.edu.np"
+    ],
+    "country": "Nepal",
+    "id": 10029,
+    "abbr": "GU (Nepal)"
   }
 ]
