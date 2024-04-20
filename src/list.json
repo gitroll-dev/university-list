@@ -140751,5 +140751,20 @@
     "country": "Nepal",
     "id": 10029,
     "abbr": "GU (Nepal)"
+  },
+  {
+    "web_pages": [
+      "https://www.epitech.eu/"
+    ],
+    "name": "Epitech School of Technology",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "epitech.eu",
+      "epitest.eu"
+    ],
+    "country": "France",
+    "id": 10030,
+    "abbr": "EST (France)"
   }
 ]
