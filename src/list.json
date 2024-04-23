@@ -140766,5 +140766,19 @@
     "country": "France",
     "id": 10030,
     "abbr": "EST (France)"
-  }
+  },
+  {
+    "web_pages": [
+      "http://www.embuni.ac.ke/"
+    ],
+    "name": "University of Embu",
+    "alpha_two_code": "KE",
+    "state-province": null,
+    "domains": [
+      "embuni.ac.ke"
+    ],
+    "country": "Kenya",
+    "id": 10031,
+    "abbr": "UoEm"
+  },
 ]
