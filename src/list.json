@@ -140780,5 +140780,19 @@
     "country": "Kenya",
     "id": 10031,
     "abbr": "UoEm"
+  },
+  {
+    "web_pages": [
+      "https://www.nutc.edu.tw"
+    ],
+    "name": "National Taichung University of Science and Technology",
+    "alpha_two_code": "TW",
+    "state-province": null,
+    "domains": [
+      "nutc.edu.tw"
+    ],
+    "country": "Taiwan",
+    "id": 10032,
+    "abbr": "NUTC"
   }
 ]
