@@ -111501,17 +111501,17 @@
   },
   {
     "web_pages": [
-      "http://www.npttc.edu.tw/"
+      "https://www.nptu.edu.tw/"
     ],
-    "name": "National Pingtung Teachers College",
+    "name": "National Pingtung University",
     "alpha_two_code": "TW",
     "state-province": null,
     "domains": [
-      "npttc.edu.tw"
+      "nptu.edu.tw"
     ],
-    "country": "Taiwan, Province of China",
+    "country": "Taiwan",
     "id": 7947,
-    "abbr": "npttc"
+    "abbr": "NPTU"
   },
   {
     "web_pages": [
