@@ -140794,5 +140794,19 @@
     "country": "Taiwan",
     "id": 10032,
     "abbr": "NUTC"
+  },
+  {
+    "name": "Alex Ekwueme Federal University Ndufu-Alike",
+    "domains": [
+      "funai.edu.ng/"
+    ],
+    "web_pages": [
+      "https://funai.edu.ng/"
+    ],
+    "country": "Nigeria",
+    "alpha_two_code": "NG",
+    "state-province": null,
+    "id": 10033,
+    "abbr": "aefunai"
   }
 ]
