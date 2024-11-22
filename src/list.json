@@ -140808,5 +140808,19 @@
     "state-province": null,
     "id": 10033,
     "abbr": "AE-FUNAI"
+  },
+  {
+    "name": "Chandigarh College of Engineering & Technology",
+    "domains": [
+      "ccet.ac.in"
+    ],
+    "web_pages": [
+      "https://ccet.ac.in"
+    ],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Chandigarh",
+    "id": 10034,
+    "abbr": "ccet"
   }
 ]
