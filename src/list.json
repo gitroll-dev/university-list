@@ -140822,5 +140822,19 @@
     "state-province": "Chandigarh",
     "id": 10034,
     "abbr": "ccet"
+  },
+  {
+    "name": "University of Taipei",
+    "domains":[
+      "utaipei.edu.tw"
+    ],
+    "web_pages":[
+      "https://www.utaipei.edu.tw"
+    ],
+    "country": "Taiwan, Province of China",
+    "alpha_two_code": "TW",
+    "state-province": null,
+    "id": 10035,
+    "abbr": "utaipei"
   }
 ]
