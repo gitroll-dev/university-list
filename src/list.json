@@ -140836,5 +140836,19 @@
     "state-province": null,
     "id": 10035,
     "abbr": "utaipei"
+  },
+  {
+    "web_pages": [
+      "https://www.apadana.ac.ir/"
+    ],
+    "name": "Apadana Institute of Higher Education",
+    "alpha_two_code": "IR",
+    "state-province": "Fars",
+    "domains": [
+      "apadana.ac.ir"
+    ],
+    "country": "Iran",
+    "id": 10036,
+    "abbr": "Apadana"
   }
 ]
