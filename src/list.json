@@ -54942,17 +54942,18 @@
   },
   {
     "web_pages": [
-      "http://www.da-iict.org/"
+      "http://daiict.ac.in/",
+      "https://sol.daiict.ac.in/"
     ],
-    "name": "Dhirubhai Ambani Institute of Information and Communication Technology",
+    "name": "Dhirubhai Ambani Univeristy",
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": [
-      "da-iict.org"
+      "daiict.ac.in"
     ],
     "country": "India",
     "id": 3913,
-    "abbr": "da-iict"
+    "abbr": "daiict"
   },
   {
     "web_pages": [
