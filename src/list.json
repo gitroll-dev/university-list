@@ -96847,19 +96847,17 @@
   },
   {
     "web_pages": [
-      "http://www.pwr.wroc.pl/",
       "https://pwr.edu.pl/"
     ],
-    "name": "Technical University of Wroclaw",
+    "name": "Wroclaw University of Science and Technology",
     "alpha_two_code": "PL",
     "state-province": null,
     "domains": [
-      "pwr.wroc.pl",
       "pwr.edu.pl"
     ],
     "country": "Poland",
     "id": 6902,
-    "abbr": "wroc"
+    "abbr": "WUST"
   },
   {
     "web_pages": [
