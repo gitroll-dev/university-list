@@ -140849,5 +140849,19 @@
     "country": "Iran",
     "id": 10036,
     "abbr": "Apadana"
+  },
+  {
+    "name": "Kainan University",
+    "domains": [
+      "knu.edu.tw"
+    ],
+    "web_pages": [
+      "https://www.knu.edu.tw"
+    ],
+    "country": "Taiwan, Province of China",
+    "alpha_two_code": "TW",
+    "state-province": null,
+    "id": 10037,
+    "abbr": "knu"
   }
 ]
